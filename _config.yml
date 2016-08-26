@@ -1,9 +1,9 @@
 # Site settings
 name: Wiki Stir Fry
-description: 'Wikipedia and Food!'
+description: 'Flash cooked crunchy bits of history learned from Wikipedia'
 
-baseurl: 'http://jeenalee.github.io/wiki-stir-fry' # the subpath of your site, e.g. /blog
-url: 'http://jeenalee.github.io/wiki-stir-fry' # the base hostname & protocol for your site
+baseurl: '/wiki-stir-fry' # the subpath of your site, e.g. /blog
+url: 'http://jeenalee.github.io' # the base hostname & protocol for your site
 
 # Build settings
 markdown:            kramdown
@@ -31,8 +31,8 @@ defaults:
       values:
         reading_time: false
         # Meta
-        show_tags: true
-        show_categories: true
+        show_tags: false
+        show_categories: false
         # Social
         share_buttons: true
         disqus: false
