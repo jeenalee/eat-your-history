@@ -3,5 +3,5 @@ layout: post
 title: "korean army stew"
 date: 2016-08-08
 backgrounds:
-thumb: https://raw.githubusercontent.com/jeenalee/wiki-stir-fry/gh-pages/assets/images/thumbnail/korean-army-stew.jpg
+thumb: https://raw.githubusercontent.com/jeenalee/eat-your-history/gh-pages/assets/images/thumbnail/korean-army-stew.jpg
 ---

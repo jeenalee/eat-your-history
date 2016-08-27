@@ -1,3 +1,3 @@
-## Wiki Stir Fry
+## Eat Your History
 
-This is a collection of random bite size history I learned from looking up a food item in Wikipedia.
+This is a collection of random bite size history while noodling.
