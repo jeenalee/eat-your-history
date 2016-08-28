@@ -36,3 +36,8 @@ li.nav-item+li.nav-item:before {
     display: block;
     margin-bottom: 1em;
 }
+
+.menu-title {
+    font-size: 1.5em;
+    line-height: 2;
+}
