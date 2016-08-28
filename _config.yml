@@ -1,6 +1,6 @@
 # Site settings
 name: Eat Your History
-description: 'Flash cooked crunchy bits of bite-size history'
+description: 'easy to digest, crunchy bits of bite sized history'
 
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'http://eatyourhistory.com' # the base hostname & protocol for your site
@@ -34,7 +34,7 @@ defaults:
         show_tags: false
         show_categories: false
         # Social
-        share_buttons: true
+        share_buttons: false
         disqus: false
 
 gems:
