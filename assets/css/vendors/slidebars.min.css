@@ -6,7 +6,7 @@
 
 .table-cover {
     display: table;
-    background-color: #f5f5f5;
+    background-color: rgba(245, 245, 245, 0);
     position: fixed;
     text-align: center;
     width: 100%;

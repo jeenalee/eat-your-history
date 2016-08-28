@@ -16,7 +16,7 @@
     z-index: 10;
 
     @include media-query($on-palm) {
-        background: rgba($background-color, .95);
+        background: $background-color;
         width: 100%;
     }
 }
@@ -231,7 +231,7 @@
 
 .post-content {
     margin-bottom: $spacing-unit;
-    line-height: 2;
+    line-height: 1.5;
 
     h2 {
         font-size: 32px;
