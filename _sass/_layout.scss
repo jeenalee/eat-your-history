@@ -4,14 +4,14 @@
 
 #sb-site {
     background-color: transparent;
-    padding: ($spacing-unit * 2) 0;
+    margin: ($spacing-unit * 2) 0;
 }
 
 .container {
     background: $background-color;
     padding: 0;
     position: relative;
-    margin: 0 auto;
+    margin: 15% auto;
     width: $content-width;
     z-index: 10;
 
