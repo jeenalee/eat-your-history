@@ -6,7 +6,9 @@ backgrounds:
 thumb: http://momonamission.me/wp-content/uploads/2012/05/IMG_4064-1024x682.jpg
 ---
 
-The other day, I decided to learn more about flour tortilla, because I love flour tortilla! Flour tortilla is typically made with *unleavened* wheat dough, and is traditionally used in Mexican cuisine. While browsing the Wikipedia page for flour tortilla, I came across a very interesting sentence: "...the wheat flour tortilla was an innovation by exiled Spanish Jews who did not consider corn meal to be kosher, using wheat brought from Europe, while this region was the colony of New Spain."
+The other day, I decided to learn more about flour tortilla, because I love flour tortilla! Flour tortilla is typically made with *unleavened* wheat dough, and is traditionally used in Mexican cuisine. While browsing the Wikipedia page for flour tortilla, I came across a very interesting sentence:
+
+> ...the wheat flour tortilla was an innovation by exiled Spanish Jews who did not consider corn meal to be kosher, using wheat brought from Europe, while this region was the colony of New Spain.
 
 Interesting! I was curious about two things, 1) why were the Jews exiled from Spain, and 2) why was corn meal not considered kosher?
 
@@ -16,7 +18,7 @@ In 1391, there were many massacres against the Jews that took place in Spain. On
 
 Spain became even more Catholic with the Catholic Monarchs that united Aragon and Castille of Spain in 1469. 22 years after the Catholic Monarchs came to power, they issued Alhambra Decree, which forced thousands of Spanish Jews to either convert to Catholicism, or get expelled. Spanish Jews who didn't convert or became crypto-Jews (publicly non-Jewish, but secretly Jewish), fled to Mexico, which was part of Spanish colony at the time. The Crusades were taking place in Europe at that time, and Europe was not a welcoming environment for the Jews. Maybe Alhambra Decree helped the Catholic Monarchs earn the title "Most Catholic Majesty" by Pope Alexander VI in 1493, but I digress...
 
-So the wikipedia pages states that exiled Spanish Jews did not consider corn meal to be kosher, but it turns out nothing is not-kosher about corn. Corn tortilla is traditionally made with corn meal and water, and therefore it should be kosher naturally. The only way corn tortilla could be considered not okay would be during Passover in Ashkenazi culture. During Passover, eating *chametz* which are leavened grain based food (wheat, spelt, barley, oats, rye) are prohibited. Ashkenazi laws go a step further and prohibits *kitniyot* which are various legumes, grains, and seeds, including corn. However, Sephardi Jews **does not** adopt this law, and so corn is allowed during Passover as well!
+The wikipedia page for flour tortilla states that exiled Spanish Jews did not consider corn meal to be kosher, but it turns out nothing is not-kosher about corn. Corn tortilla is traditionally made with corn meal and water, and therefore it should be kosher naturally. The only way corn tortilla could be considered not okay would be during Passover in Ashkenazi culture. During Passover, eating *chametz* which are leavened grain based food (wheat, spelt, barley, oats, rye) are prohibited. Ashkenazi laws go a step further and prohibits *kitniyot* which are various legumes, grains, and seeds, including corn. However, Sephardi Jews **does not** adopt this law, and so corn is allowed during Passover as well!
 
 It seems like there is a lot of debate on whether flour tortilla is actually invented by the exiled Spanish Jews. Nonetheless, I learned a lot about history and kosher laws, and hopefully you found it interesting too.
 
