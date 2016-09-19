@@ -51,8 +51,6 @@ gardens for vegetables, a weekly ration for **one** adult was:
 <small>
 reference |
 [Bubble and Squeak](https://en.wikipedia.org/wiki/Bubble_and_squeak) - [Rationing in England](https://en.wikipedia.org/wiki/Rationing_in_the_United_Kingdom#World_War_II) - [Rationing in WW2](http://www.bbc.co.uk/schools/primaryhistory/world_war2/food_and_shopping/) - [The 1940s Experiment](https://the1940sexperiment.com/)
-</small>
-
-<small>
+<br>
 photo credit | <a href="http://www.bbcgoodfood.com/sites/default/files/recipe_images/recipe-image-legacy-id--107459_12.jpg">BBC Food</a>
 </small>

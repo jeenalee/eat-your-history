@@ -46,8 +46,6 @@ got to taste curry, and eventually created kare.
 <small>
 reference |
 [Japanese Curry](https://en.wikipedia.org/wiki/Japanese_curry) - [Meiji Era](https://en.wikipedia.org/wiki/Meiji_period) - [Sakoku Edict of 1635](https://en.wikipedia.org/wiki/Sakoku_Edict_of_1635)
-</small>
-
-<small>
+<br>
 photo credit | <a href="https://en.wikipedia.org/wiki/Japanese_curry#/media/File:Curry_rice_by_Hyougushi_in_Kyoto.jpg">Wikipedia</a>
 </small>
