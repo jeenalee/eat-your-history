@@ -32,9 +32,9 @@ li.nav-item+li.nav-item:before {
 }
 
 .site-description {
-    font-size: 60%;
+    font-size: 80%;
     display: block;
-    margin-bottom: 1em;
+    margin-bottom: 1.5em;
 }
 
 .menu-title {
