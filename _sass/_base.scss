@@ -119,9 +119,7 @@ a {
  */
 blockquote {
     background: $grey-color-light;
-    margin-left: ($spacing-unit / 3);
-    margin-right: ($spacing-unit / 3);
-    padding: $spacing-unit / 3;
+    padding: $spacing-unit / 6;
     border-left: .25rem solid #dfd67f;
     font-style: italic;
     p:last-child {
